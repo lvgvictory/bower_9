@@ -1,0 +1,17 @@
+{
+  "name": "bower_9",
+  "version": "1.0.1",
+  "authors": [
+    "Giang LeLe <lvgvictory@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/lvgvictory/bower_9.git",
+  "ignore": [
+    "README.md"
+  ]
+}
